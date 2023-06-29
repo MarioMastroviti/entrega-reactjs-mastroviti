@@ -1,0 +1,19 @@
+.producto {
+    display: flex;
+    flex-direction: column;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+.producto > div {
+    padding: 1.5rem;
+    background-color: rgb(90, 134, 184);
+}
+
+.botonDetalles{
+    border-radius: 1rem;
+    background-color: rgb(4, 55, 133);
+    text-decoration: none;
+        
+}
+

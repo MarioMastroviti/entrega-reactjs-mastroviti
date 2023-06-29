@@ -1,0 +1,12 @@
+li{
+    display: inline;
+    margin: 1.5rem;
+    cursor: pointer;
+    font-weight: bold;  
+    font-size: larger; 
+       
+}
+ul{
+    gap: 2rem;
+}
+

@@ -1,0 +1,10 @@
+.todosProductos{
+    max-width: 750px;
+    padding: 1.5rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 6rem;
+     
+}
+
