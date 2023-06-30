@@ -1,7 +1,7 @@
 const misProductos = [
 {id: "1" , idCat: "1", nombre: "Aceite de thc", precio: 2000, img: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/369/182/products/2-x-101-42c1d0601a0b2c706016634228149416-640-0.jpg" },
 
-{id: "2" , idCat: "1", nombre: "Aceite de cbd", precio: 2000, img: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/369/182/products/30-n1-635cadd728dbd9921416867571824420-640-0.webp" },
+{id: "2" , idCat: "1", nombre: "https://sevenleaves.com.ec/wp-content/uploads/2022/05/Aceite-CME-Media-10-660x660.jpeg" },
 
 {id: "3" , idCat: "1", nombre: "Aceite de thc/cbd", precio: 2000, img: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/369/182/products/ama11-66b217d50131e2d8f416633618239296-640-0.jpg" },
 
