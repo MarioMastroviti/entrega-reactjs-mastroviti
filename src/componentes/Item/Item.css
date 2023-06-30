@@ -5,7 +5,7 @@
     overflow: hidden;
 }
 
-.producto > div {
+.producto  div {
     padding: 1.5rem;
     background-color: rgb(90, 134, 184);
 }
