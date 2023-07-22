@@ -1,0 +1,21 @@
+.contacto {
+     
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 60rem;
+    gap: 0.5rem;
+    font-weight: bold;
+    margin: 7rem;
+ 
+   
+    
+}
+
+.boton{
+    cursor: pointer;
+    width: 6rem;
+    text-align: center;
+
+    
+    }

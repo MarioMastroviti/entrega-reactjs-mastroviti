@@ -1,0 +1,25 @@
+.formulario {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.form-campos {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+
+
+.orden {
+    display: block;
+    margin: 4rem;
+    padding: 2rem;
+    font-size: 2rem;
+    border: 1px solid black;
+    border-radius: 5px;
+}

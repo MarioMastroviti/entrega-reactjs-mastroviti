@@ -1,0 +1,20 @@
+.card{
+    width: 40rem;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr;
+    color: black;
+    background-color: bisque;
+    margin: 5rem;
+    gap: 3rem;
+}
+
+.carrito-vacio{
+    color: red;
+    width: 40rem;
+    text-align: center;
+}
+.link{
+    font-weight: bold;
+    color: black;
+}
